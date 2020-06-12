@@ -1,0 +1,32 @@
+[
+	{
+		"name": "com.fasterxml.jackson.databind.ext.Java7HandlersImpl",
+		"methods": [
+			{
+				"name": "<init>",
+				"parameterTypes": []
+			}
+		]
+	},
+	{
+		"name": "com.fasterxml.jackson.databind.ext.Java7SupportImpl",
+		"methods": [
+			{
+				"name": "<init>",
+				"parameterTypes": []
+			}
+		]
+	},
+	{
+		"name": "com.github.arielcarrera.graalvmlab.model.DataModel",
+		"allDeclaredFields": true,
+		"allDeclaredMethods": true,
+		"allDeclaredConstructors": true
+	},
+	{
+		"name": "com.github.arielcarrera.graalvmlab.model.ChildDataModel",
+		"allDeclaredFields": true,
+		"allDeclaredMethods": true,
+		"allDeclaredConstructors": true
+	}
+]
